@@ -1,6 +1,6 @@
 # Svelte Spline Editor
 
-A simple Svelte project for creating animation splines.
+A simple Svelte project for creating animation splines. View the [demo](https://github.com/flaneuseh/spline-editor/blob/main/demo.mov)!
 
 Before you start, `npm` must be installed.
 
