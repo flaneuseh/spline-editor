@@ -1,4 +1,4 @@
-# Spline Editor
+# Svelte Spline Editor
 
 Before you start, `npm` must be installed.
 
