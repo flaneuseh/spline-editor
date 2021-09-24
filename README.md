@@ -1,5 +1,7 @@
 # Svelte Spline Editor
 
+A simple Svelte project for creating animation splines.
+
 Before you start, `npm` must be installed.
 
 To run the spline editor, run the commands `npm install` and `npm run start` in the terminal. Then
