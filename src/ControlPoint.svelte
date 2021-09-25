@@ -21,7 +21,7 @@ import { draggable } from 'svelte-drag';
 	on:svelte-drag={drag}
 	on:dblclick={removeFn}
 >
-	<title>({x}, {y})</title>
+	<title>({round(x)}, {round(y)})</title>
 </circle>
 
 <style>
